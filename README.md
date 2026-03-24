@@ -1,5 +1,7 @@
 # metacognition
 
+[![ClawHub](https://img.shields.io/badge/ClawHub-metacognition-blue)](https://clawhub.ai/meimakes/metacognition)
+
 A self-reflection engine for AI agents. Extracts patterns from session transcripts into a weighted insight graph with Hebbian learning and time decay, then compiles a token-budgeted lens of active self-knowledge.
 
 An [OpenClaw](https://openclaw.app) skill.
